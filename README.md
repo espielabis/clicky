@@ -4,7 +4,7 @@
 
 ## Deployed Application
 
-[GitHub Pages] <https:>
+[GitHub Pages] <https://espielabis.github.io/clicky/>
 
 <!-- Use extension to make TOC -->
 <!-- ## Contents -->
@@ -21,7 +21,7 @@ React, JSX, Materialize CSS
 * Dynamic scoring
 * Responsive design
 
-![BMO favicon](.)
+
 
 ### Application Process
 
