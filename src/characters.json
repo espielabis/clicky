@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "cats",
+    "image": "./img/cats.jpeg",
+    "click": false
+  },
+  {
+    "id": 2,
+    "name": "dogs",
+    "image":"./img/dogs.jpeg",
+    "click": false
+  },
+  {
+    "id": 3,
+    "name": "cows",
+    "image":
+      "./img/cows.jpeg",
+    "click": false
+  },
+  {
+    "id": 4,
+    "name": "giraffes",
+    "image":
+      "./img/giraffes.jpeg",
+    "click": false
+  },
+  {
+    "id": 5,
+    "name": "penguins",
+    "image":
+      "./img/penguins.jpeg",
+    "click": false
+  },
+  {
+    "id": 6,
+    "name": "birds",
+    "image":
+      "./img/birds.jpeg",
+    "click": false
+  },
+  {
+    "id": 7,
+    "name": "lions",
+    "image":
+      "./img/lions.jpeg",
+    "click": false
+  },
+  {
+    "id": 8,
+    "name": "tigers",
+    "image":
+      "./img/tigers.jpeg",
+    "click": false
+  },
+  {
+    "id": 9,
+    "name": "zebras",
+    "image":
+      "./img/zebras.jpeg",
+    "click": false
+  },
+  {
+    "id": 10,
+    "name": "horses",
+    "image":
+      "./img/horses.jpeg",
+    "click": false
+  },
+  {
+    "id": 11,
+    "name": "elephants",
+    "image":
+      "./img/elephants.jpeg",
+    "click": false
+  },
+  {
+    "id": 12,
+    "name": "monkeys",
+    "image":
+      "./img/monkeys.jpeg",
+    "click": false
+  }
+]

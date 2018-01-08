@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+/* Header where navbar is contained */
+.App-header {
+  background-color: #FF9387;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+/* Game instructions */
+.App-intro {
+  font-size: large;
+}
+
+.game-squares {
+  /* overflow: hidden; */
+  position: relative;
+}
+.z-depth-4, .modal {
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px;
+}
